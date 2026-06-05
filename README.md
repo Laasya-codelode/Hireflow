@@ -1,6 +1,6 @@
 # JobAI — AI Job Search Assistant MVP
 
-Resume analysis, ATS scoring, and cover letter generation powered by Claude.
+Resume analysis, ATS scoring, and cover letter generation 
 
 ## Setup
 
