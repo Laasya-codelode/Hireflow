@@ -1,4 +1,4 @@
-# JobAI — AI Job Search Assistant MVP
+# Hireflow — AI Job Search Assistant MVP
 
 Resume analysis, ATS scoring, and cover letter generation 
 
